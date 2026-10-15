@@ -231,10 +231,6 @@ Contributions, bug reports, and suggestions are welcome.
 3. Make and test your changes.
 4. Open a pull request describing the change.
 
-## 📄 License
-
-No license has been specified yet. Add a `LICENSE` file before presenting the project as open source, and choose a license that matches your intentions.
-
 ---
 
 **Note:** This README describes the Streamlit interface shown in the project code. Update the entry filename, dependency list, environment variable names, and provider details to match the actual files in your repository before publishing.
